@@ -3,8 +3,11 @@
     margin: 0;
     bottom: 0;
     font-size: 15px;
-    background-color: hsl(212, 45%, 89%);
+    
     font-family: 'Outfit', sans-serif;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
 }
 .container{
     margin: 0 auto;
@@ -23,19 +26,27 @@ img{
 }
 
 .card{
-
-width: 250px;
+    border-radius: 15px;
+    background-color: white;
+    width: 270px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
+/* .attribution{
+    margin-top: 10vh;
+} */
+
+
 #heading{
 color:  hsl(218, 44%, 22%);
 font-weight: 700;
 font-size: 20px;
-
-
+margin: auto;
+padding: 5px;
 }
 #para{
 margin-top: 1vh;
     color: hsl(220, 15%, 55%);
 font-weight: 400;
-
+padding: 10px;
+margin-bottom: 20px;
 }
