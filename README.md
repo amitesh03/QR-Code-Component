@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution URL:](https://github.com/amitesh03/QR-Code-Component)
-- [Live Site URL:](https://qr-code-component.glitch.me)
+- [Live Site URL:](https://qr-code-component.pages.dev/)
 ### Built with
 
 - Semantic HTML5 markup
